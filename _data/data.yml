@@ -1,0 +1,166 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Tuan Tran
+    tagline: iOS Expert / Team Manager / Scrum Master
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: tuantm.dev@gmail.com
+    phone: 0988 66 93 97
+    timezone: Hanoi Timezone
+    citizenship:
+    website: tuantmdev.github.io #do not add http://
+    linkedin: tranmanhtuan
+    github: tuantmdev
+    telegram: tuan_tm_dev # add your nickname without '@' sign
+    gitlab: 
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Vietnamese
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Movie
+          link:
+
+        - item: Music
+          link:
+
+        - item: Running
+          link:
+
+career-profile:
+    title: Career Profile
+    summary: |
+      As a highly experienced and versatile professional, I have a proven track record of success in both team management and project management, as well as expertise in iOS development. With my strong leadership skills and technical knowledge, I have successfully led cross-functional teams to deliver complex projects on time and within budget, while also providing technical guidance and support to my team members. My ability to effectively communicate with stakeholders at all levels, as well as my passion for continuous learning and improvement, make me a valuable asset to any organization. Whether leading a team or managing a project, I am committed to delivering results that meet the highest standards of quality and efficiency. With my expertise in iOS development, I bring a deep understanding of the platform and a proven ability to develop high-quality, scalable, and user-friendly applications. I am confident in my ability to make a positive impact on any team or organization that I am a part of, and I look forward to leveraging my skills and experience to drive success.
+education:
+    title: Education
+    info:
+      - degree: Bachelor in Information System
+        university: University Of Transport and Communications
+        time: 2008 - 2012
+experiences:
+    title: Experiences
+    info:
+      - role: Product Manager
+        time: 2021 - Present
+        company: Citigo JSC (KiotViet)
+        details: |
+          Act as the voice of the customer and ensure that the product being developed meets the needs and expectations of its intended audience.
+            - Conducting market research to identify customer needs and preferences
+            - Defining the product vision and strategy
+            - Working with cross-functional teams (such as engineering, design, and sales) to ensure that the product is developed and launched successfully
+            - Prioritizing features and determining the product roadmap
+            - Ensuring the product is delivered on time and within budget
+            - Analyzing product performance and making data-driven decisions to continuously improve the product
+            - Managing the product lifecycle, including end-of-life planning
+            - Communicating product plans and updates to stakeholders, including senior leadership and customers
+      - role: Team Manager
+        time: 2020 - Present
+        company: Citigo JSC (KiotViet)
+        details: |
+          Leading, coaching, and motivating my team to achieve common goals. Ensure that the team is functioning effectively and efficiently, and to help individual team members grow and develop professionally.
+            - Setting and communicating team goals and objectives
+            - Developing and implementing team processes and procedures
+            - Providing coaching and mentoring to team members
+            - Conducting performance evaluations and managing employee development plans
+            - Resolving conflicts and promoting teamwork and collaboration
+            - Allocating resources and managing the team budget
+            - Representing the team and communicating updates to senior leadership
+            - Ensuring the team is meeting its performance goals and delivering high-quality work
+            - Providing regular feedback and recognition to team members
+      - role: Team Leader
+        time: 2016 - 2020
+        company: Citigo JSC (KiotViet)
+        details: |
+          With strong technical expertise in iOS development, as well as experience leading and managing software development teams, I help my team to oversee the development of high-quality software that meets the needs and expectations of its intended audience, and to ensure that the team is functioning effectively and efficiently
+            - Setting and communicating team goals and objectives related to iOS development
+            - Leading the design and development of new iOS-based products and features
+            - Mentoring and coaching team members to help them grow and develop professionally
+            - Managing the iOS development roadmap and prioritizing tasks and projects
+            - Collaborating with cross-functional teams, such as product management and design, to ensure that the iOS development is aligned with overall company goals and objectives
+            - Ensuring that the iOS development process is efficient and follows best practices
+            - Providing technical guidance and support to team members as needed
+            - Representing the iOS development team and communicating updates to senior leadership and stakeholders
+            - Ensuring that the team is delivering high-quality, scalable, and maintainable software
+      - role: Team Leader
+        time: 2014 - 2016
+        company: MOG
+        details: |
+          As a Mobile Team Leader, my role is to oversee the development of high-quality mobile products and applications. I lead and manage a team of software engineers and developers to ensure that they are working effectively and efficiently towards our common goals. I set and communicate these goals, provide technical guidance and support, and represent the team to senior leadership and stakeholders. I bring a combination of technical and business expertise to the table, as well as a commitment to continuous learning and improvement, which allows me to ensure that our team is delivering top-notch software for multiple mobile platforms.
+      - role: iOS Developer
+        time: 2013 - 2014
+        company: VCCorp.
+        details: |
+          As a Senior iOS Developer, I specialize in designing and building high-quality iOS products. I write clean and maintainable code, collaborate with cross-functional teams, mentor junior developers, and stay up-to-date with the latest iOS technologies. I am dedicated to delivering top-notch software and always strive for continuous improvement.
+      - role: iOS Developer
+        time: 2012 - 2013
+        company: Vega Corp.
+        details: |
+          As an iOS Developer, I specialize in creating applications for Apple's iOS platform. My role includes writing efficient code and collaborating with cross-functional teams to build top-quality products. I stay current with the latest iOS technologies and continuously strive to enhance my skills and deliver exceptional software. My goal is to create seamless and user-friendly iOS applications that meet the needs and expectations of users.
+projects:
+    title: KiotViet
+    intro: >
+      KiotViet is a Vietnamese retail management software that helps businesses manage their operations more effectively and efficiently. It offers a suite of tools for point-of-sale, inventory management, customer relationship management, and sales analysis, among others. With its user-friendly interface and customizable features, KiotViet is designed to support businesses of all sizes and industries, streamlining their daily operations and improving overall productivity.
+    assignments:
+      - title: KShip
+        link: "#"
+        tagline: "A portal to connect all shipping provider in Vietnam and help sellers easy to create delivery orders"
+
+      - title: Facebook POS
+        link: "#"
+        tagline: "A Point-of-Sale web app, designed for sellers who're selling products via Facebook Fanpage, help them communicate with potential buyers and quickly create orders in one screen."
+
+      - title: Ommni Channel
+        link: "#"
+        tagline: "A system to help sellers manage and synchronize products, orders from multiple E-comerce platforms on KiotViet"
+
+      - title: KiotViet mobile apps
+        link: "#"
+        tagline: "Apps which allow sellers to create, manager products, orders, invoices and many more"
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Objective-C
+        level: 98%
+
+      - name: Swift
+        level: 98%
+
+      - name: Microsoft Word & Excel
+        level: 90%
+
+      - name: Basamiq
+        level: 90%
+      
+      - name: Figma
+        level: 70%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
+footer: >
+    From Tuan with <i class="fas fa-heart"></i> 
+    <p>Need print version? Check <a href="/print">this</a> out!</p>
