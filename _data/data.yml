@@ -62,19 +62,6 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Product Manager
-        time: 2021 - Present
-        company: Citigo JSC (KiotViet)
-        details: |
-          Act as the voice of the customer and ensure that the product being developed meets the needs and expectations of its intended audience.
-            - Conducting market research to identify customer needs and preferences
-            - Defining the product vision and strategy
-            - Working with cross-functional teams (such as engineering, design, and sales) to ensure that the product is developed and launched successfully
-            - Prioritizing features and determining the product roadmap
-            - Ensuring the product is delivered on time and within budget
-            - Analyzing product performance and making data-driven decisions to continuously improve the product
-            - Managing the product lifecycle, including end-of-life planning
-            - Communicating product plans and updates to stakeholders, including senior leadership and customers
       - role: Team Manager
         time: 2020 - Present
         company: Citigo JSC (KiotViet)
@@ -89,6 +76,19 @@ experiences:
             - Representing the team and communicating updates to senior leadership
             - Ensuring the team is meeting its performance goals and delivering high-quality work
             - Providing regular feedback and recognition to team members
+      - role: Product Manager
+        time: 2021 - Present
+        company: Citigo JSC (KiotViet)
+        details: |
+          Act as the voice of the customer and ensure that the product being developed meets the needs and expectations of its intended audience.
+            - Conducting market research to identify customer needs and preferences
+            - Defining the product vision and strategy
+            - Working with cross-functional teams (such as engineering, design, and sales) to ensure that the product is developed and launched successfully
+            - Prioritizing features and determining the product roadmap
+            - Ensuring the product is delivered on time and within budget
+            - Analyzing product performance and making data-driven decisions to continuously improve the product
+            - Managing the product lifecycle, including end-of-life planning
+            - Communicating product plans and updates to stakeholders, including senior leadership and customers
       - role: Team Leader
         time: 2016 - 2020
         company: Citigo JSC (KiotViet)
