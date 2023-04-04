@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tuan Tran
-    tagline: iOS Expert / Team Manager / Scrum Master
+    tagline: iOS Expert / Engineering Manager / Project Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -58,15 +58,15 @@ education:
     info:
       - degree: Bachelor in Information System
         university: University Of Transport and Communications
-        time: 2008 - 2012
+        time: Very good grade (2008 - 2012)
 experiences:
     title: Experiences
     info:
       - role: Team Manager
         time: 2020 - Present
-        company: Citigo JSC (KiotViet)
+        company: KiotViet
         details: |
-          Leading, coaching, and motivating my team to achieve common goals. Ensure that the team is functioning effectively and efficiently, and to help individual team members grow and develop professionally.
+          Leading, coaching, and motivating my team (size: 20-50 members) to achieve common goals. Ensure that the team is functioning effectively and efficiently, and to help individual team members grow and develop professionally.
             - Setting and communicating team goals and objectives
             - Developing and implementing team processes and procedures
             - Providing coaching and mentoring to team members
@@ -77,8 +77,8 @@ experiences:
             - Ensuring the team is meeting its performance goals and delivering high-quality work
             - Providing regular feedback and recognition to team members
       - role: Product Manager
-        time: 2021 - Present
-        company: Citigo JSC (KiotViet)
+        time: 2022 - Present
+        company: KiotViet
         details: |
           Act as the voice of the customer and ensure that the product being developed meets the needs and expectations of its intended audience.
             - Conducting market research to identify customer needs and preferences
@@ -89,11 +89,16 @@ experiences:
             - Analyzing product performance and making data-driven decisions to continuously improve the product
             - Managing the product lifecycle, including end-of-life planning
             - Communicating product plans and updates to stakeholders, including senior leadership and customers
+      - role: Technical Leader
+        time: 2019 - Present
+        company: MotionsCloud
+        details: |
+          With strong technical expertise in iOS development, as well as experience leading and managing software development teams, I collaborate with other team members to build top-quality products. Help client build requested feature, fix critical issues and improve performance of exist features.
       - role: Team Leader
         time: 2016 - 2020
-        company: Citigo JSC (KiotViet)
+        company: KiotViet
         details: |
-          With strong technical expertise in iOS development, as well as experience leading and managing software development teams, I help my team to oversee the development of high-quality software that meets the needs and expectations of its intended audience, and to ensure that the team is functioning effectively and efficiently
+          With strong technical expertise in iOS development, as well as experience leading and managing software development teams, I help my team of 7 members to oversee the development of high-quality software that meets the needs and expectations of its intended audience, and to ensure that the team is functioning effectively and efficiently
             - Setting and communicating team goals and objectives related to iOS development
             - Leading the design and development of new iOS-based products and features
             - Mentoring and coaching team members to help them grow and develop professionally
@@ -119,47 +124,66 @@ experiences:
         details: |
           As an iOS Developer, I specialize in creating applications for Apple's iOS platform. My role includes writing efficient code and collaborating with cross-functional teams to build top-quality products. I stay current with the latest iOS technologies and continuously strive to enhance my skills and deliver exceptional software. My goal is to create seamless and user-friendly iOS applications that meet the needs and expectations of users.
 projects:
-    title: KiotViet
-    intro: >
-      KiotViet is a Vietnamese retail management software that helps businesses manage their operations more effectively and efficiently. It offers a suite of tools for point-of-sale, inventory management, customer relationship management, and sales analysis, among others. With its user-friendly interface and customizable features, KiotViet is designed to support businesses of all sizes and industries, streamlining their daily operations and improving overall productivity.
+    title: Highlight projects
     assignments:
-      - title: KShip
-        link: "#"
+      - title: KiotViet KShip
+        link: "https://www.kiotviet.vn/giai-phap-giao-hang-ngay-tren-kiotviet/"
         tagline: "A portal to connect all shipping provider in Vietnam and help sellers easy to create delivery orders"
 
-      - title: Facebook POS
-        link: "#"
+      - title: KiotViet Facebook POS
+        link: "https://www.kiotviet.vn/facebook-pos-lp/"
         tagline: "A Point-of-Sale web app, designed for sellers who're selling products via Facebook Fanpage, help them communicate with potential buyers and quickly create orders in one screen."
 
-      - title: Ommni Channel
-        link: "#"
+      - title: KiotViet Ommni Channel
+        link: "https://www.kiotviet.vn/giai-phap-ban-hang-tren-san-tmdt/"
         tagline: "A system to help sellers manage and synchronize products, orders from multiple E-comerce platforms on KiotViet"
 
+      - title: KiotOnline
+        link: "https://apps.apple.com/us/app/id1617247334"
+        tagline: "Free version of KiotViet allow seller to manage orders and inventory with very simple steps"
+
       - title: KiotViet mobile apps
-        link: "#"
+        link: "https://apps.apple.com/vn/developer/citigo/id1080531531"
         tagline: "Apps which allow sellers to create, manager products, orders, invoices and many more"
+
+      - title: SVPRO
+        link: "https://apps.apple.com/us/app/svpro-app/id1068950627"
+        tagline: "An iPad app for agents to verify car insurance claims on-site."
+
+      - title: Excon app
+        link: "https://apps.apple.com/de/app/excon-app/id1372718209"
+        tagline: "An iOS app which using OCR, location tracking, photo and video to audit cars for later use"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Objective-C
-        level: 98%
+        level: 95%
 
       - name: Swift
-        level: 98%
-
-      - name: Microsoft Word & Excel
         level: 90%
 
-      - name: Basamiq
+      - name: Microsoft Office
         level: 90%
       
       - name: Figma
         level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Leadership
+        level: 80%
+
+      - name: Project Manager
+        level: 80%
+
+      - name: Interpersonal
+        level: 90%
+
+      - name: Problem solving
+        level: 80%
+
+      - name: Time management
+        level: 90%
 
 footer: >
     From Tuan with <i class="fas fa-heart"></i> 
