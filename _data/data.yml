@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Tuan Tran
-    tagline: iOS Expert / Engineering Manager / Project Manager
+    tagline: Project Manager / PSM I
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -62,11 +62,13 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Team Manager
-        time: 2020 - Present
+      - role: Team Manager (Project Manager)
+        time: 2016 - Present
         company: KiotViet
         details: |
-          Leading, coaching, and motivating my team (size: 20-50 members) to achieve common goals. Ensure that the team is functioning effectively and efficiently, and to help individual team members grow and develop professionally.
+          Leading, coaching, and motivating my cross-functional team to achieve common goals. Ensure that the team is functioning effectively and efficiently, and to help individual team members grow and develop professionally.
+          
+          Responsibility:
             - Setting and communicating team goals and objectives
             - Developing and implementing team processes and procedures
             - Providing coaching and mentoring to team members
@@ -75,39 +77,15 @@ experiences:
             - Allocating resources and managing the team budget
             - Representing the team and communicating updates to senior leadership
             - Ensuring the team is meeting its performance goals and delivering high-quality work
-            - Providing regular feedback and recognition to team members
-      - role: Product Manager
-        time: 2022 - Present
-        company: KiotViet
-        details: |
-          Act as the voice of the customer and ensure that the product being developed meets the needs and expectations of its intended audience.
-            - Conducting market research to identify customer needs and preferences
-            - Defining the product vision and strategy
-            - Working with cross-functional teams (such as engineering, design, and sales) to ensure that the product is developed and launched successfully
-            - Prioritizing features and determining the product roadmap
-            - Ensuring the product is delivered on time and within budget
-            - Analyzing product performance and making data-driven decisions to continuously improve the product
-            - Managing the product lifecycle, including end-of-life planning
-            - Communicating product plans and updates to stakeholders, including senior leadership and customers
-      - role: Technical Leader
-        time: 2019 - Present
-        company: MotionsCloud
-        details: |
-          With strong technical expertise in iOS development, as well as experience leading and managing software development teams, I collaborate with other team members to build top-quality products. Help client build requested feature, fix critical issues and improve performance of exist features.
-      - role: Team Leader
-        time: 2016 - 2020
-        company: KiotViet
-        details: |
-          With strong technical expertise in iOS development, as well as experience leading and managing software development teams, I help my team of 7 members to oversee the development of high-quality software that meets the needs and expectations of its intended audience, and to ensure that the team is functioning effectively and efficiently
-            - Setting and communicating team goals and objectives related to iOS development
-            - Leading the design and development of new iOS-based products and features
-            - Mentoring and coaching team members to help them grow and develop professionally
-            - Managing the iOS development roadmap and prioritizing tasks and projects
-            - Collaborating with cross-functional teams, such as product management and design, to ensure that the iOS development is aligned with overall company goals and objectives
-            - Ensuring that the iOS development process is efficient and follows best practices
-            - Providing technical guidance and support to team members as needed
-            - Representing the iOS development team and communicating updates to senior leadership and stakeholders
-            - Ensuring that the team is delivering high-quality, scalable, and maintainable software
+            - Providing regular feedback and recognition to team members- role: Team Leader
+          
+          Archivements:
+            - Build up a team from scratch. Growth from only 2 members to 55 members in 2023
+            - Successfully deliver multiple complex project such as: the very first mobile version of Kiotviet, FBPOS, Timesheet, OmniChannel, KShip
+            - Catch-up all web-based features for mobile app which go ahead 4 years compared with mobile version. Have more than 150K active users using everyday.
+            - Manage and growth online products for KiotViet ecosystem: Facebook POS, OmniChannel...(increase 75% active merchant in last year)
+            - Have a good partnership with Meta, Tiktok, Shopee, Lazada...
+
       - role: Team Leader
         time: 2014 - 2016
         company: MOG
@@ -145,14 +123,6 @@ projects:
       - title: KiotViet mobile apps
         link: "https://apps.apple.com/vn/developer/citigo/id1080531531"
         tagline: "Apps which allow sellers to create, manager products, orders, invoices and many more"
-
-      - title: SVPRO
-        link: "https://apps.apple.com/us/app/svpro-app/id1068950627"
-        tagline: "An iPad app for agents to verify car insurance claims on-site."
-
-      - title: Excon app
-        link: "https://apps.apple.com/de/app/excon-app/id1372718209"
-        tagline: "An iOS app which using OCR, location tracking, photo and video to audit cars for later use"
 
 skills:
     title: Skills &amp; Proficiency
